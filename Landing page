@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<html lang="en">
+<<link rel="stylesheet" href="style.css">>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Science-based training and accountability for busy professionals. Build muscle, strength, and energy with structure, not hype. TC Trainer & Coach by Tiago Pereira.">
+  <title>TC Trainer & Coach | Build a Body That Matches Your Career</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  
+  <!-- CSS will be linked in Stage 5 -->
+</head>
+<body>
+
+  <!-- ========== HERO SECTION ========== -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero__content">
+        <div class="badge badge--urgency">Limited to 5-8 Active Clients</div>
+        
+        <h1 class="hero__headline">
+          Build a Body That Matches Your Career — With Structure, Not Hype
+        </h1>
+        
+        <p class="hero__subheadline">
+          Science-based training and weekly accountability for <strong>busy professionals</strong> who want sustainable muscle growth, strength, and energy — without relying on motivation that fades after 2 weeks.
+        </p>
+        
+        <p class="hero__supporting">
+          No cookie-cutter programs. No "motivational" fluff. Just <strong>intelligent training systems</strong> designed by a kinesiologist who understands your real-world constraints.
+        </p>
+        
+        <a href="#apply" class="btn btn--primary">Apply for Limited Coaching Spots</a>
+        
+        <p class="hero__trust">
+          ✓ 100% Guaranteed Results or Full Refund<br>
+          ✓ Weekly 1-on-1 Video Coaching Calls
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== PROBLEM SECTION ========== -->
+  <section class="problem">
+    <div class="container">
+      <h2 class="section__headline">Why Most Training Programs Fail Busy Professionals</h2>
+      
+      <p class="section__intro">
+        You're successful in your career. You think long-term. You value systems over quick fixes.
+      </p>
+      
+      <p class="section__intro">
+        <strong>But when it comes to fitness, you've been stuck in this cycle:</strong>
+      </p>
+      
+      <!-- Pain Point 1 -->
+      <div class="problem__item">
+        <h3 class="problem__title">Pain Point #1: Programs Don't Fit Your Reality</h3>
+        
+        <p>You've tried multiple training plans — some worked for 3 weeks, then life happened.</p>
+        
+        <p><strong>Work deadlines hit.</strong> Travel schedules change. Stress spikes. Recovery drops.</p>
+        
+        <p>And the program? It doesn't adapt. It just sits there, demanding you follow a rigid 6-day split designed for someone with unlimited time and zero responsibilities.</p>
+        
+        <p><strong>The consequence:</strong> You skip workouts. Feel guilty. Eventually quit. Start over next month with a "new program" that fails the exact same way.</p>
+      </div>
+      
+      <!-- Pain Point 2 -->
+      <div class="problem__item">
+        <h3 class="problem__title">Pain Point #2: You're Relying on Motivation (Which Always Runs Out)</h3>
+        
+        <p>Here's the truth: <strong>Motivation is not a strategy.</strong></p>
+        
+        <p>You start strong — excited, committed, consistent. Two weeks in, you're training 5 days a week.</p>
+        
+        <p>Then motivation fades. You miss Monday. Skip Wednesday. Tell yourself you'll "get back on track next week."</p>
+        
+        <p><strong>The real problem?</strong> You never built a <strong>structure</strong> — a system that works regardless of how you feel.</p>
+        
+        <p><strong>The consequence:</strong> You spend years "restarting" instead of progressing. Your body looks the same as it did 3 years ago, despite "trying" multiple times.</p>
+      </div>
+      
+      <!-- Pain Point 3 -->
+      <div class="problem__item">
+        <h3 class="problem__title">Pain Point #3: You Train Hard But See Minimal Results</h3>
+        
+        <p>You show up to the gym. You push yourself. You feel the burn.</p>
+        
+        <p>But <strong>6 months later</strong>, you've gained maybe 2 lbs of muscle. Your lifts barely moved. You're not sure what's working or what to change.</p>
+        
+        <p><strong>Why?</strong> Because effort without <strong>progressive strategy</strong> is just exercise, not training.</p>
+        
+        <p>No clear progression system. No periodization. No understanding of <strong>volume, intensity, and recovery balance</strong>. No injury prevention strategy.</p>
+        
+        <p><strong>The consequence:</strong> You plateau. Get frustrated. Wonder if your "genetics" are the problem (they're not — your programming is).</p>
+      </div>
+      
+      <!-- Cost of Inaction -->
+      <div class="problem__cta-block">
+        <h3 class="problem__title">The Cost of Another Year Without Structure:</h3>
+        
+        <p>Imagine 12 months from now.</p>
+        
+        <p>Your career advanced. Your income grew. Your responsibilities increased.</p>
+        
+        <p><strong>But your body?</strong> Still the same. Maybe worse.</p>
+        
+        <p>Lower energy. Declining strength. A physique that doesn't reflect the discipline you bring to everything else.</p>
+        
+        <p><strong>You deserve better.</strong> And there's a better way.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SOLUTION SECTION ========== -->
+  <section class="solution">
+    <div class="container">
+      <h2 class="section__headline">Introducing: The Structure-First System™</h2>
+      
+      <p class="section__subheadline">A complete training ecosystem designed for professionals who think long-term.</p>
+      
+      <p class="solution__intro">
+        This isn't another workout plan you'll quit in 3 weeks.
+      </p>
+      
+      <p class="solution__intro">
+        It's a <strong>science-based coaching system</strong> that treats your body like the high-performance asset it is — with the same strategic thinking you apply to your career.
+      </p>
+      
+      <p class="solution__intro">
+        <strong>No motivational speeches.</strong> No "beast mode" nonsense. Just intelligent programming, accountability, and consistent progress.
+      </p>
+      
+      <!-- Three Pillars -->
+      <div class="pillars">
+        <!-- Pillar 1 -->
+        <div class="pillar">
+          <div class="pillar__number">01</div>
+          <h3 class="pillar__title">Science-Based Programming That Adapts to Your Life</h3>
+          
+          <p>Your program is <strong>custom-built</strong> — not a template.</p>
+          
+          <p>I analyze your schedule, stress levels, recovery capacity, training history, and goals. Then I design a progressive overload system that fits your reality.</p>
+          
+          <p><strong>What this means:</strong></p>
+          <ul>
+            <li>If you travel for work, your program adapts (hotel gym modifications, volume adjustments)</li>
+            <li>If stress is high, we manage intensity intelligently (CNS recovery matters)</li>
+            <li>If you miss a session, we adjust — no guilt, no "starting over," just continuity</li>
+          </ul>
+          
+          <p><strong>The result:</strong> Consistent progress without burnout, injuries, or unsustainable effort.</p>
+        </div>
+        
+        <!-- Pillar 2 -->
+        <div class="pillar">
+          <div class="pillar__number">02</div>
+          <h3 class="pillar__title">Movement Quality & Injury Prevention (Kinesiologist-Backed)</h3>
+          
+          <p>Most trainers focus on <strong>how much weight</strong> you lift.</p>
+          
+          <p>I focus on <strong>how well you move</strong> — because poor mechanics destroy long-term progress.</p>
+          
+          <p>As a kinesiologist, I analyze your movement patterns, identify compensation issues, and build corrective work into your program.</p>
+          
+          <p><strong>What this means:</strong></p>
+          <ul>
+            <li>You learn proper technique for compound lifts (squat, deadlift, press, pull)</li>
+            <li>We address mobility restrictions and muscle imbalances before they become injuries</li>
+            <li>You build a body that's <strong>strong AND durable</strong> — not just temporarily jacked</li>
+          </ul>
+          
+          <p><strong>The result:</strong> You train for decades, not months. Zero injuries. Sustainable strength.</p>
+        </div>
+        
+        <!-- Pillar 3 -->
+        <div class="pillar">
+          <div class="pillar__number">03</div>
+          <h3 class="pillar__title">Sustainable Habit Architecture (No Willpower Required)</h3>
+          
+          <p>Motivation fades. <strong>Systems last.</strong></p>
+          
+          <p>I don't coach you to "find your why" or watch motivational videos. I build structure — training schedules, nutrition frameworks, and recovery protocols that <strong>remove decision fatigue</strong>.</p>
+          
+          <p><strong>What this means:</strong></p>
+          <ul>
+            <li>You know exactly when you train, what you eat, and how you recover</li>
+            <li>No daily "should I work out today?" debates — your calendar decides</li>
+            <li>Accountability through weekly video calls (not just app check-ins)</li>
+          </ul>
+          
+          <p><strong>The result:</strong> Training becomes automatic. You stop "trying" and start <strong>executing</strong>.</p>
+        </div>
+      </div>
+      
+      <!-- Why This Works -->
+      <div class="solution__why">
+        <h3>Why This Works When Other Programs Don't:</h3>
+        
+        <div class="comparison">
+          <div class="comparison__item">
+            <p class="comparison__other">Other programs give you a workout plan.</p>
+            <p class="comparison__mine">I give you a <strong>complete training ecosystem</strong>.</p>
+          </div>
+          
+          <div class="comparison__item">
+            <p class="comparison__other">Other coaches motivate you for 2 weeks.</p>
+            <p class="comparison__mine">I build <strong>structure that lasts years</strong>.</p>
+          </div>
+          
+          <div class="comparison__item">
+            <p class="comparison__other">Other trainers focus on short-term intensity.</p>
+            <p class="comparison__mine">I focus on <strong>long-term progression and injury prevention</strong>.</p>
+          </div>
+        </div>
+        
+        <p class="solution__closing">
+          This is coaching for professionals who value <strong>systems, science, and sustainability</strong> over hype.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== VALUE STACK SECTION ========== -->
+  <section class="value-stack">
+    <div class="container">
+      <h2 class="section__headline">What You Get When You Join</h2>
+      
+      <!-- Value Items -->
+      <div class="value-items">
+        <!-- Value Item 1 -->
+        <div class="value-item">
+          <div class="value-item__header">
+            <span class="value-item__icon">✓</span>
+            <h3 class="value-item__title">#1: Personalized Training Program</h3>
+            <span class="value-item__price">$500/month value</span>
+          </div>
+          
+          <p>This isn't a template. It's a custom-built program designed specifically for:</p>
+          <ul>
+            <li>Your training history and current strength levels</li>
+            <li>Your schedule constraints (realistic session length and frequency)</li>
+            <li>Your recovery capacity (stress, sleep, work demands)</li>
+            <li>Your specific goals (muscle gain, strength, body recomposition)</li>
+          </ul>
+          
+          <p><strong>What's included:</strong></p>
+          <ul>
+            <li>Exercise selection based on your movement quality assessment</li>
+            <li>Progressive overload system with clear metrics (you'll know exactly what progress looks like)</li>
+            <li>Periodization strategy (deloads, intensity waves, volume management)</li>
+            <li>Program updates every 4-6 weeks based on your progress</li>
+          </ul>
+          
+          <p><strong>You'll never wonder "what do I do today?"</strong> — your program is mapped out with precision.</p>
+        </div>
+        
+        <!-- Value Item 2 -->
+        <div class="value-item">
+          <div class="value-item__header">
+            <span class="value-item__icon">✓</span>
+            <h3 class="value-item__title">#2: Weekly 1-on-1 Video Coaching Calls</h3>
+            <span class="value-item__price">$400/month value</span>
+          </div>
+          
+          <p>Every week, we meet via video call to:</p>
+          <ul>
+            <li>Review your training execution and technique (form checks via video)</li>
+            <li>Adjust programming based on how your body is responding</li>
+            <li>Troubleshoot obstacles (travel, stress, schedule changes)</li>
+            <li>Hold you accountable to commitments</li>
+          </ul>
+          
+          <p><strong>This is NOT a generic check-in.</strong> It's strategic coaching where we optimize in real-time.</p>
+          
+          <p>Most coaches charge $150-200 per session for this level of attention. You get it <strong>every single week</strong>.</p>
+        </div>
+        
+        <!-- Value Item 3 -->
+        <div class="value-item">
+          <div class="value-item__header">
+            <span class="value-item__icon">✓</span>
+            <h3 class="value-item__title">#3: Nutrition System for Busy Professionals</h3>
+            <span class="value-item__price">$300/month value</span>
+          </div>
+          
+          <p>Forget calorie counting and meal prep Sundays.</p>
+          
+          <p>You get a <strong>principle-based nutrition framework</strong> that supports muscle growth and performance without micromanaging your life.</p>
+          
+          <p><strong>What's included:</strong></p>
+          <ul>
+            <li>Protein targets optimized for your body weight and goals</li>
+            <li>Carb and fat distribution based on training intensity</li>
+            <li>Meal timing strategies for energy and recovery</li>
+            <li>Supplement protocol (creatine, protein, essentials — no BS products)</li>
+            <li>How to eat for performance during travel, client dinners, and real-life situations</li>
+          </ul>
+          
+          <p><strong>You'll know exactly how to eat</strong> — without obsessing over MyFitnessPal.</p>
+        </div>
+        
+        <!-- Value Item 4 -->
+        <div class="value-item">
+          <div class="value-item__header">
+            <span class="value-item__icon">✓</span>
+            <h3 class="value-item__title">#4: Movement Assessment & Injury Prevention Strategy</h3>
+            <span class="value-item__price">$250 value</span>
+          </div>
+          
+          <p>As a kinesiologist, I evaluate:</p>
+          <ul>
+            <li>Your movement patterns and joint mobility</li>
+            <li>Compensation issues and muscle imbalances</li>
+            <li>Weak points that could lead to injury</li>
+          </ul>
+          
+          <p>Then I integrate corrective exercises directly into your program.</p>
+          
+          <p><strong>This alone prevents thousands of dollars in physical therapy</strong> and months of lost training.</p>
+        </div>
+        
+        <!-- Value Item 5 -->
+        <div class="value-item">
+          <div class="value-item__header">
+            <span class="value-item__icon">✓</span>
+            <h3 class="value-item__title">#5: 24/7 Direct Messaging Support</h3>
+            <span class="value-item__price">$200/month value</span>
+          </div>
+          
+          <p>You have direct access to me via messaging platform.</p>
+          
+          <p><strong>Questions about form?</strong> Send a video.<br>
+          <strong>Need a program adjustment?</strong> Message me.<br>
+          <strong>Confused about nutrition?</strong> I'll clarify within 24 hours.</p>
+          
+          <p>You're not alone in this process. I'm your partner.</p>
+        </div>
+      </div>
+      
+      <!-- Bonuses -->
+      <div class="bonuses">
+        <h3 class="bonuses__title">🎁 Exclusive Bonuses:</h3>
+        
+        <div class="bonus-item">
+          <h4>BONUS #1: Supplement Guide for Busy Professionals</h4>
+          <span class="bonus-item__price">$97 value</span>
+          
+          <p>The exact supplement stack I recommend for:</p>
+          <ul>
+            <li>Muscle growth and recovery</li>
+            <li>Energy and focus without stimulant dependency</li>
+            <li>Joint health and longevity</li>
+            <li>Sleep quality optimization</li>
+          </ul>
+          
+          <p><strong>Plus:</strong> How to avoid wasting money on overhyped products that do nothing.</p>
+        </div>
+        
+        <div class="bonus-item">
+          <h4>BONUS #2: Recovery & Sleep Optimization Protocol</h4>
+          <span class="bonus-item__price">$77 value</span>
+          
+          <p>Your training is only as good as your recovery.</p>
+          
+          <p>This protocol covers:</p>
+          <ul>
+            <li>Sleep hygiene strategies for high-stress professionals</li>
+            <li>Active recovery techniques (mobility, walking, deload strategies)</li>
+            <li>How to manage training when sleep/stress is suboptimal</li>
+            <li>Nervous system regulation for better adaptation</li>
+          </ul>
+          
+          <p><strong>Most coaches ignore recovery.</strong> I build it into your system.</p>
+        </div>
+      </div>
+      
+      <!-- Value Calculation -->
+      <div class="value-calculation">
+        <h3>Total Value Breakdown:</h3>
+        
+        <table class="value-table">
+          <tr>
+            <td>Personalized Training Program</td>
+            <td>$500/month</td>
+          </tr>
+          <tr>
+            <td>Weekly Video Coaching Calls (4x)</td>
+            <td>$400/month</td>
+          </tr>
+          <tr>
+            <td>Nutrition System</td>
+            <td>$300/month</td>
+          </tr>
+          <tr>
+            <td>Movement Assessment</td>
+            <td>$250</td>
+          </tr>
+          <tr>
+            <td>24/7 Messaging Support</td>
+            <td>$200/month</td>
+          </tr>
+          <tr>
+            <td>Supplement Guide</td>
+            <td>$97</td>
+          </tr>
+          <tr>
+            <td>Recovery Protocol</td>
+            <td>$77</td>
+          </tr>
+          <tr class="value-table__total">
+            <td><strong>TOTAL VALUE</strong></td>
+            <td><strong>$1,824/month</strong></td>
+          </tr>
+        </table>
+      </div>
+      
+      <!-- Pricing Options -->
+      <div class="pricing">
+        <h3 class="pricing__title">Your Investment Today:</h3>
+        
+        <!-- Option 1: Monthly -->
+        <div class="pricing-card">
+          <div class="pricing-card__header">
+            <h4>Option 1: Monthly Partnership</h4>
+          </div>
+          <div class="pricing-card__price">
+            <span class="price__amount">$350</span>
+            <span class="price__period">/month</span>
+          </div>
+          <ul class="pricing-card__features">
+            <li>Weekly video calls (4 per month)</li>
+            <li>Full program and support access</li>
+            <li>Cancel anytime after 3-month minimum</li>
+          </ul>
+          <a href="#apply" class="btn btn--primary">Apply Now</a>
+        </div>
+        
+        <!-- Option 2: 12-Month (Best Value) -->
+        <div class="pricing-card pricing-card--featured">
+          <div class="badge badge--best">BEST VALUE</div>
+          <div class="pricing-card__header">
+            <h4>Option 2: 12-Month Transformation</h4>
+          </div>
+          <div class="pricing-card__price">
+            <span class="price__amount">$3,400</span>
+            <span class="price__period">Pay in Full</span>
+          </div>
+          <p class="pricing-card__savings"><strong>Save $800</strong> (vs. $4,200 monthly)</p>
+          <ul class="pricing-card__features">
+            <li>52 weekly video coaching calls</li>
+            <li>12 months of full access</li>
+            <li>Priority messaging support</li>
+            <li><strong>BONUS:</strong> 2 extra strategy sessions ($400 value)</li>
+          </ul>
+          <p class="pricing-card__best-for"><em>Best for: Professionals committed to building a body that lasts</em></p>
+          <a href="#apply" class="btn btn--primary">Apply Now</a>
+        </div>
+        
+        <!-- Option 3: 6-Month -->
+        <div class="pricing-card">
+          <div class="pricing-card__header">
+            <h4>Option 3: 6-Month Foundation</h4>
+          </div>
+          <div class="pricing-card__price">
+            <span class="price__amount">$2,100</span>
+            <span class="price__period">Pay in Full</span>
+          </div>
+          <ul class="pricing-card__features">
+            <li>1 video call per month (6 total)</li>
+            <li>Full program access for 6 months</li>
+            <li>24/7 messaging support</li>
+          </ul>
+          <p class="pricing-card__best-for"><em>Best for: Self-directed individuals who need strategic oversight, not hand-holding</em></p>
+          <a href="#apply" class="btn btn--primary">Apply Now</a>
+        </div>
+      </div>
+      
+      <!-- Why This Price -->
+      <div class="pricing-justification">
+        <h3>Why This Price?</h3>
+        
+        <p>I intentionally limit my client roster to <strong>5-8 active clients maximum</strong>.</p>
+        
+        <p>Why? Because this level of coaching isn't scalable.</p>
+        
+        <p>I'm not running a group program or selling templates. I'm building custom systems for professionals who expect excellence.</p>
+        
+        <p><strong>You're not buying a product. You're gaining a partner in your physical performance.</strong></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SOCIAL PROOF SECTION ========== -->
+  <section class="testimonials">
+    <div class="container">
+      <h2 class="section__headline">Real Results From Professionals Like You</h2>
+      
+      <div class="testimonials-grid">
+        <!-- Testimonial 1 -->
+        <div class="testimonial-card">
+          <div class="testimonial__quote">"</div>
+          <p class="testimonial__text">
+            I gained 8 lbs of lean muscle in 12 weeks while working 60-hour weeks. Tiago's program actually fit my life — no unrealistic meal prep or 2-hour gym sessions. Just structure and consistency.
+          </p>
+          <div class="testimonial__author">
+            <div class="testimonial__avatar">DL</div>
+            <div class="testimonial__info">
+              <p class="testimonial__name">David L.</p>
+              <p class="testimonial__title">Corporate Executive</p>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Testimonial 2 -->
+        <div class="testimonial-card">
+          <div class="testimonial__quote">"</div>
+          <p class="testimonial__text">
+            Finally, a coach who focuses on movement quality and longevity, not just pushing weight. Zero injuries, steady progress, and I actually understand WHY I'm doing each exercise.
+          </p>
+          <div class="testimonial__author">
+            <div class="testimonial__avatar">SM</div>
+            <div class="testimonial__info">
+              <p class="testimonial__name">Sarah M.</p>
+              <p class="testimonial__title">Entrepreneur</p>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Testimonial 3 -->
+        <div class="testimonial-card">
+          <div class="testimonial__quote">"</div>
+          <p class="testimonial__text">
+            I've worked with 4 trainers before Tiago. They all gave me generic programs. Tiago built a system around my travel schedule, stress levels, and recovery needs. That's why this worked.
+          </p>
+          <div class="testimonial__author">
+            <div class="testimonial__avatar">MT</div>
+            <div class="testimonial__info">
+              <p class="testimonial__name">Marcus T.</p>
+              <p class="testimonial__title">Consultant</p>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Testimonial 4 -->
+        <div class="testimonial-card">
+          <div class="testimonial__quote">"</div>
+          <p class="testimonial__text">
+            Best investment I've made in my health. The weekly calls keep me accountable, and the nutrition system is simple enough that I actually follow it. Down 15 lbs, up 20 lbs on my bench press in 16 weeks.
+          </p>
+          <div class="testimonial__author">
+            <div class="testimonial__avatar">JK</div>
+            <div class="testimonial__info">
+              <p class="testimonial__name">Jennifer K.</p>
+              <p class="testimonial__title">Finance Director</p>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Testimonial 5 -->
+        <div class="testimonial-card">
+          <div class="testimonial__quote">"</div>
+          <p class="testimonial__text">
+            I thought I knew how to train. Then Tiago analyzed my squat form and fixed 3 compensation patterns I didn't know existed. My knees stopped hurting, and my lifts went up 15% in 8 weeks.
+          </p>
+          <div class="testimonial__author">
+            <div class="testimonial__avatar">AR</div>
+            <div class="testimonial__info">
+              <p class="testimonial__name">Alex R.</p>
+              <p class="testimonial__title">Tech Founder</p>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Testimonial 6 -->
+        <div class="testimonial-card">
+          <div class="testimonial__quote">"</div>
+          <p class="testimonial__text">
+            No hype. No motivational nonsense. Just science, structure, and accountability. Exactly what I needed as someone who values systems over emotions.
+          </p>
+          <div class="testimonial__author">
+            <div class="testimonial__avatar">BH</div>
+            <div class="testimonial__info">
+              <p class="testimonial__name">Brian H.</p>
+              <p class="testimonial__title">Operations Manager</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Why Results Happen -->
+      <div class="testimonials__why">
+        <h3>Why These Results Happen:</h3>
+        
+        <ul class="results-list">
+          <li><strong>Customization</strong> — not templates</li>
+          <li><strong>Accountability</strong> — weekly video calls, not app check-ins</li>
+          <li><strong>Education</strong> — you learn the "why" behind every decision</li>
+          <li><strong>Adaptability</strong> — programs adjust to your real life</li>
+          <li><strong>Injury Prevention</strong> — kinesiologist-backed movement quality</li>
+        </ul>
+        
+        <p class="testimonials__closing"><strong>This isn't luck. It's structure.</strong></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== GUARANTEE SECTION ========== -->
+  <section class="guarantee">
+    <div class="container">
+      <h2 class="section__headline">The Performance Guarantee: 90 Days, Zero Risk</h2>
+      
+      <div class="guarantee__content">
+        <p class="guarantee__intro">Here's my promise:</p>
+        
+        <p>Train with me for <strong>90 days</strong>.</p>
+        
+        <p>Follow the program. Show up to video calls. Apply the systems.</p>
+        
+        <p><strong>If you don't see measurable progress</strong> in:</p>
+        <ul>
+          <li>Strength (objective lift increases)</li>
+          <li>Muscle quality (visual and measurement-based)</li>
+          <li>Energy and recovery (subjective improvement)</li>
+        </ul>
+        
+        <p class="guarantee__promise">
+          <strong>I'll refund your entire investment.</strong> No questions. No hassle.
+        </p>
+        
+        <p>And you keep all training materials, protocols, and guides.</p>
+        
+        <h3>Why I Offer This Guarantee:</h3>
+        
+        <p>Because <strong>this system works when you work it.</strong></p>
+        
+        <p>I've coached dozens of professionals. The ones who commit to the structure <strong>always</strong> see results.</p>
+        
+        <p>The only variable is <strong>you</strong>.</p>
+        
+        <p>If you show up, follow the program, and communicate openly — you will progress.</p>
+        
+        <p><strong>I'm betting on your commitment.</strong> That's how confident I am in this system.</p>
+        
+        <h3>What "Measurable Progress" Means:</h3>
+        
+        <ul>
+          <li><strong>Strength:</strong> Lift numbers increase on key movements (squat, deadlift, press, pull)</li>
+          <li><strong>Muscle Quality:</strong> Visible size increase or body recomposition measured via photos and assessments</li>
+          <li><strong>Energy:</strong> Improved recovery, better sleep quality, higher daily energy levels</li>
+        </ul>
+        
+        <p class="guarantee__final"><strong>If these don't improve in 90 days, you get your money back.</strong></p>
+        
+        <p class="guarantee__final">Period.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== URGENCY/SCARCITY SECTION ========== -->
+  <section class="urgency">
+    <div class="container">
+      <h2 class="section__headline">Limited Availability: Why You Need to Apply Now</h2>
+      
+      <p class="urgency__intro">
+        I work with <strong>5-8 clients maximum</strong> at any given time.
+      </p>
+      
+      <p>Why so few?</p>
+      
+      <p>Because I refuse to dilute coaching quality. Each client gets:</p>
+      <ul>
+        <li>Custom program design (not templates)</li>
+        <li>Weekly 1-on-1 video calls</li>
+        <li>24/7 messaging access with response within 24 hours</li>
+        <li>Continuous program adjustments based on real-time feedback</li>
+      </ul>
+      
+      <p><strong>This level of attention isn't scalable.</strong></p>
+      
+      <!-- Current Availability -->
+      <div class="availability">
+        <div class="badge badge--urgency badge--pulse">3 Spots Remaining</div>
+        <p class="availability__deadline">Applications close in <strong>7 days</strong> or when spots fill (whichever comes first).</p>
+      </div>
+      
+      <!-- Two Columns: Wait vs Apply -->
+      <div class="urgency-comparison">
+        <div class="urgency-comparison__column urgency-comparison__wait">
+          <h3>What Happens If You Wait:</h3>
+          <ul>
+            <li>You miss this intake cycle and wait 4-8 weeks for the next opening</li>
+            <li>Another month passes with inconsistent training and no structure</li>
+            <li>You continue relying on motivation (which will fail again)</li>
+            <li>Your body stays the same while your career keeps advancing</li>
+          </ul>
+        </div>
+        
+        <div class="urgency-comparison__column urgency-comparison__apply">
+          <h3>What Happens If You Apply Today:</h3>
+          <ul>
+            <li>We lock in your spot and schedule your first strategy call within 48 hours</li>
+            <li>You receive your custom program within 7 days</li>
+            <li>Your first weekly coaching call happens within 10 days</li>
+            <li>You start building momentum with structure, not willpower</li>
+          </ul>
+        </div>
+      </div>
+      
+      <p class="urgency__closing">
+        <strong>The difference between where you are and where you want to be is structure.</strong>
+      </p>
+      
+      <p class="urgency__closing">
+        <strong>And structure starts today.</strong>
+      </p>
+    </div>
+  </section>
+
+  <!-- ========== FAQ SECTION ========== -->
+  <section class="faq">
+    <div class="container">
+      <h2 class="section__headline">Common Questions (Answered Directly)</h2>
+      
+      <div class="faq-items">
+        <!-- FAQ 1 -->
+        <div class="faq-item">
+          <h3 class="faq-item__question">Q: I don't have time for complicated meal plans or 2-hour gym sessions. Will this work for me?</h3>
+          <div class="faq-item__answer">
+            <p><strong>A:</strong> Yes. That's exactly who this is designed for.</p>
+            
+            <p>Training sessions are <strong>45-60 minutes, 3-5x per week</strong> (based on your schedule).</p>
+            
+            <p>Nutrition is <strong>principle-based, not micromanaged</strong>. You'll know your protein target, meal structure, and eating strategies — no calorie counting or meal prep marathons required.</p>
+            
+            <p><strong>If you have 3-5 hours per week for training, this works.</strong></p>
+          </div>
+        </div>
+        
+        <!-- FAQ 2 -->
+        <div class="faq-item">
+          <h3 class="faq-item__question">Q: I've worked with trainers before and saw minimal results. Why would this be different?</h3>
+          <div class="faq-item__answer">
+            <p><strong>A:</strong> Most trainers give you a template and check in once a week via app messages.</p>
+            
+            <p>I build <strong>custom systems</strong> based on your:</p>
+            <ul>
+              <li>Training history and current strength levels</li>
+              <li>Schedule and stress levels</li>
+              <li>Movement quality and injury history</li>
+              <li>Recovery capacity</li>
+            </ul>
+            
+            <p>Then we adjust <strong>in real-time</strong> through weekly video calls.</p>
+            
+            <p><strong>This isn't cookie-cutter coaching. It's strategic partnership.</strong></p>
+          </div>
+        </div>
+        
+        <!-- FAQ 3 -->
+        <div class="faq-item">
+          <h3 class="faq-item__question">Q: What if I travel frequently for work? Can the program adapt?</h3>
+          <div class="faq-item__answer">
+            <p><strong>A:</strong> Absolutely.</p>
+            
+            <p>I've coached consultants, executives, and entrepreneurs who travel 40%+ of the year.</p>
+            
+            <p>We build adaptability into your program:</p>
+            <ul>
+              <li>Hotel gym modifications (minimal equipment options)</li>
+              <li>Volume adjustments during high-stress travel weeks</li>
+              <li>Nutrition strategies for client dinners and airports</li>
+            </ul>
+            
+            <p><strong>Your program follows you, not the other way around.</strong></p>
+          </div>
+        </div>
+        
+        <!-- FAQ 4 -->
+        <div class="faq-item">
+          <h3 class="faq-item__question">Q: I'm not a beginner. Will this work for intermediate/advanced lifters?</h3>
+          <div class="faq-item__answer">
+            <p><strong>A:</strong> Yes.</p>
+            
+            <p>I've worked with complete beginners and lifters with 5+ years of training experience.</p>
+            
+            <p>Programming is <strong>individualized</strong> to your current level:</p>
+            <ul>
+              <li>Beginners get foundational movement patterns and progressive overload basics</li>
+              <li>Intermediate lifters get periodization, volume optimization, and technique refinement</li>
+              <li>Advanced lifters get specialized programming for specific goals (strength, hypertrophy, peaking)</li>
+            </ul>
+            
+            <p><strong>Your program matches your experience.</strong></p>
+          </div>
+        </div>
+        
+        <!-- FAQ 5 -->
+        <div class="faq-item">
+          <h3 class="faq-item__question">Q: Do I need to count macros or track every meal?</h3>
+          <div class="faq-item__answer">
+            <p><strong>A:</strong> No.</p>
+            
+            <p>Unless you're preparing for a bodybuilding show or have very specific body composition goals, <strong>tracking isn't required</strong>.</p>
+            
+            <p>You'll learn:</p>
+            <ul>
+              <li>Protein targets (based on body weight and goals)</li>
+              <li>Meal structure and timing strategies</li>
+              <li>How to estimate portions without weighing food</li>
+            </ul>
+            
+            <p><strong>Simple, sustainable, effective.</strong></p>
+          </div>
+        </div>
+        
+        <!-- FAQ 6 -->
+        <div class="faq-item">
+          <h3 class="faq-item__question">Q: What if I have an old injury or mobility limitation?</h3>
+          <div class="faq-item__answer">
+            <p><strong>A:</strong> That's exactly why I include movement assessment.</p>
+            
+            <p>As a kinesiologist, I evaluate:</p>
+            <ul>
+              <li>Current movement patterns and restrictions</li>
+              <li>Injury history and compensation issues</li>
+              <li>Exercises that need modification or substitution</li>
+            </ul>
+            
+            <p>We work <strong>around</strong> limitations while improving them over time.</p>
+            
+            <p><strong>You won't be told "just push through it."</strong> We'll address the root cause.</p>
+          </div>
+        </div>
+        
+        <!-- FAQ 7 -->
+        <div class="faq-item">
+          <h3 class="faq-item__question">Q: How do I know if this coaching is right for me?</h3>
+          <div class="faq-item__answer">
+            <p><strong>A:</strong> This is the right fit if:</p>
+            
+            <ul>
+              <li>✅ You're a busy professional who values long-term thinking</li>
+              <li>✅ You want structure and accountability, not motivational speeches</li>
+              <li>✅ You're tired of "restarting" every few weeks</li>
+              <li>✅ You're ready to commit to consistent work (not perfection)</li>
+              <li>✅ You value science-based programming over trendy workouts</li>
+            </ul>
+            
+            <p><strong>This is NOT the right fit if:</strong></p>
+            
+            <ul>
+              <li>❌ You're looking for a quick fix or 30-day transformation</li>
+              <li>❌ You need constant motivation and hand-holding</li>
+              <li>❌ You're not willing to show up to weekly calls and follow the program</li>
+              <li>❌ You want a cheap, scalable group program</li>
+            </ul>
+            
+            <p><strong>If you're serious about building a body that matches your career success, apply.</strong></p>
+          </div>
+        </div>
+        
+        <!-- FAQ 8 -->
+        <div class="faq-item">
+          <h3 class="faq-item__question">Q: What's the time commitment beyond training sessions?</h3>
+          <div class="faq-item__answer">
+            <p><strong>A:</strong> Minimal.</p>
+            
+            <ul>
+              <li><strong>Training:</strong> 45-60 minutes, 3-5x per week (based on your program)</li>
+              <li><strong>Weekly Video Call:</strong> 30-45 minutes</li>
+              <li><strong>Messaging Communication:</strong> 5-10 minutes per week (sending form videos, asking questions)</li>
+            </ul>
+            
+            <p><strong>Total time commitment: 4-6 hours per week.</strong></p>
+            
+            <p>If you have time for Netflix, you have time for this.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== FINAL CTA SECTION ========== -->
+  <section class="final-cta" id="apply">
+    <div class="container">
+      <h2 class="final-cta__headline">Ready to Build a Body That Matches Your Career?</h2>
+      
+      <p class="final-cta__intro">
+        You've read this far because something resonated.
+      </p>
+      
+      <p>Maybe it's the frustration of inconsistent progress.</p>
+      
+      <p>Maybe it's the realization that motivation isn't a strategy.</p>
+      
+      <p>Maybe it's the desire to finally have a <strong>structured system</strong> that works with your life, not against it.</p>
+      
+      <div class="final-cta__truth">
+        <h3>Here's the truth:</h3>
+        
+        <p>You don't need another workout plan. You need <strong>coaching, accountability, and a system designed for professionals like you.</strong></p>
+        
+        <p><strong>You don't need motivation.</strong> You need <strong>structure.</strong></p>
+        
+        <p><strong>You don't need to "try harder."</strong> You need to <strong>train smarter.</strong></p>
+      </div>
+      
+      <div class="final-cta__steps">
+        <h3>What Happens Next:</h3>
+        
+        <div class="steps">
+          <div class="step">
+            <div class="step__number">1</div>
+            <p>Click the button below to apply for limited coaching spots</p>
+          </div>
+          
+          <div class="step">
+            <div class="step__number">2</div>
+            <p>Fill out a brief application (takes 3 minutes) so I understand your goals and situation</p>
+          </div>
+          
+          <div class="step">
+            <div class="step__number">3</div>
+            <p>If it's a good fit, we'll schedule your first strategy call within 48 hours</p>
+          </div>
+          
+          <div class="step">
+            <div class="step__number">4</div>
+            <p>You receive your custom program within 7 days and begin training with structure</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="final-cta__button-wrapper">
+        <div class="badge badge--urgency badge--pulse">3 Spots Remaining</div>
+        <a href="https://yourcoachingapplicationlink.com" class="btn btn--primary btn--large">Apply for Coaching Now</a>
+      </div>
+      
+      <div class="final-cta__trust">
+        <p>✅ <strong>90-Day Performance Guarantee</strong> — Results or full refund</p>
+        <p>✅ <strong>Limited to 5-8 Active Clients</strong> — Quality over quantity</p>
+        <p>✅ <strong>Weekly 1-on-1 Video Coaching</strong> — Not app check-ins</p>
+      </div>
+      
+      <div class="final-cta__closing">
+        <p class="final-cta__thought">Your body should reflect the same discipline, structure, and long-term thinking you bring to your career.</p>
+        
+        <p class="final-cta__thought"><strong>Let's build it together.</strong></p>
+        
+        <p class="final-cta__signature">
+          <strong>— Tiago Pereira</strong><br>
+          <em>Kinesiologist • Certified Trainer & Coach • TC Trainer & Coach</em>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== FOOTER (Optional) ========== -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2025 TC Trainer & Coach. All rights reserved.</p>
+      <p>Contact: <a href="mailto:contact@tctrainercoach.com">contact@tctrainercoach.com</a></p>
+    </div>
+  </footer>
+
+</body>
+</html>
